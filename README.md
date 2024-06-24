@@ -1,5 +1,11 @@
 # Netflix-Backend-Simulator
 
+<p align="center">
+  <img width="480" height="300" src="images/netflix.jpg">
+</p>
+
+
+
 # Overview:
 The Netflix Simulator Backend is a robust and efficient implementation of a Netflix-like streaming service, developed in C++ utilizing object-oriented programming principles. This project demonstrates a deep understanding of key concepts such as polymorphism, inheritance, and pointer manipulation. Designed with modularity and extensibility in mind, the backend system serves as the backbone for a simulated streaming platform, enabling seamless management of movies, TV shows, user profiles, and streaming queues.
 ## Key Features:
