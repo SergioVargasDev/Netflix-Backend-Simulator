@@ -29,3 +29,8 @@ The Netflix Simulator Backend is a robust and efficient implementation of a Netf
 
 - Implements user profiles, allowing users to create, update, and delete their accounts.
 - Supports features such as user authentication, password management, and profile customization.
+
+## Technology Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
